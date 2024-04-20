@@ -1,0 +1,5 @@
+file	5
+line	2
+line	4
+line	4
+word	3

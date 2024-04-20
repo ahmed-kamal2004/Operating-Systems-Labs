@@ -1,0 +1,6 @@
+Type those commands in terminal 
+
+    cd Requirement1\&2/
+    source runner.sh
+
+By : Ahmed Kamal

@@ -1,0 +1,5 @@
+lone	4
+fole	5
+lone	4
+word	3
+lone	2
